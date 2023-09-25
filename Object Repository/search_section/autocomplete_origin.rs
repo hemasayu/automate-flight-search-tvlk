@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>autocomplete_origin</name>
+   <tag></tag>
+   <elementGuidId>6eea0905-5df7-4d4d-a58c-50a991a54eeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-axzv8h r-l13dpy&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-uwe93p&quot;]/div[@class=&quot;css-1dbjc4n r-kdyh1x r-rs99b7 r-1yos0t3 r-1xfddsp r-bztko3 r-uwe93p r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1xfddsp&quot;]/div[@class=&quot;css-1dbjc4n r-u6sd8q r-4gszlv r-1f0042m r-13awgt0 r-1xfddsp r-1ygmrgt r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1wh2hl7 r-e65k4z r-1q9bdsx r-xyw6el&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1pn2ns4&quot;]/div[@class=&quot;css-1dbjc4n r-zo7nv5 r-6413gk r-ogt5cd r-kzbkwu r-1i6dfp5 r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-kzbkwu&quot;]/div[@class=&quot;css-1dbjc4n r-19mqnvc r-17x6qj0&quot;]/div[@class=&quot;css-1dbjc4n r-1l31rp8 r-z2wwpe r-rs99b7 r-1d2f490 r-1ms6dn0 r-1pq6peu r-1udh08x r-u8s1d r-1r2pcjo&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1rnoaur r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-391gc0 r-qklmqi r-1loqt21 r-ymttw5 r-5njf8e r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1w6e6rj&quot;]/div[@class=&quot;css-1dbjc4n r-1habvwh r-13awgt0 r-18u37iz r-1w6e6rj r-1wtj0ep&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/div/div/div/div[2]/div/div/div[5]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>26bd133f-8603-4853-a595-d1416cc158ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-13awgt0</value>
+      <webElementGuid>35302825-7742-4253-9e90-30079a3e4d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Medan, IndonesiaKNO - Kualanamu International Airport</value>
+      <webElementGuid>1e3c13b1-b651-4e33-9663-4f1dcec58667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-axzv8h r-l13dpy&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-uwe93p&quot;]/div[@class=&quot;css-1dbjc4n r-kdyh1x r-rs99b7 r-1yos0t3 r-1xfddsp r-bztko3 r-uwe93p r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1xfddsp&quot;]/div[@class=&quot;css-1dbjc4n r-u6sd8q r-4gszlv r-1f0042m r-13awgt0 r-1xfddsp r-1ygmrgt r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1wh2hl7 r-e65k4z r-1q9bdsx r-xyw6el&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1pn2ns4&quot;]/div[@class=&quot;css-1dbjc4n r-zo7nv5 r-6413gk r-ogt5cd r-kzbkwu r-1i6dfp5 r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-kzbkwu&quot;]/div[@class=&quot;css-1dbjc4n r-19mqnvc r-17x6qj0&quot;]/div[@class=&quot;css-1dbjc4n r-1l31rp8 r-z2wwpe r-rs99b7 r-1d2f490 r-1ms6dn0 r-1pq6peu r-1udh08x r-u8s1d r-1r2pcjo&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1rnoaur r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-391gc0 r-qklmqi r-1loqt21 r-ymttw5 r-5njf8e r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1w6e6rj&quot;]/div[@class=&quot;css-1dbjc4n r-1habvwh r-13awgt0 r-18u37iz r-1w6e6rj r-1wtj0ep&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]</value>
+      <webElementGuid>7d4bb19c-fe49-4cc9-9385-fa3147b03488</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/div/div/div/div[2]/div/div/div[5]/div/div/div/div</value>
+      <webElementGuid>8a6eabae-e430-4ae2-8f78-6326c77bd8c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUB - Juanda'])[1]/following::div[5]</value>
+      <webElementGuid>42638d9d-7bd0-4a60-99cb-05ed48a4b090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surabaya, Indonesia'])[1]/following::div[6]</value>
+      <webElementGuid>a09a9dce-9fa8-4347-a031-9a9c137f6746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[5]/div/div/div/div</value>
+      <webElementGuid>7c147196-2bea-4931-ad52-70d13ed51f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Medan, IndonesiaKNO - Kualanamu International Airport' or . = 'Medan, IndonesiaKNO - Kualanamu International Airport')]</value>
+      <webElementGuid>50e082af-ae77-450a-a036-5fe447fa440f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

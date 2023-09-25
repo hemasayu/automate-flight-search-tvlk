@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_2_oct</name>
+   <tag></tag>
+   <elementGuidId>a12fd66f-8293-4f4f-ad3a-6ec88b82a0bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/div/div[3]/div/div/div[2]/div/div/div/div/div/div[2]/div/div/div[3]/div[2]/div/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1vjbqqu.r-z2wwpe.r-18u37iz.r-1472mwg.r-13qz1uu > div.css-1dbjc4n.r-1awozwy.r-eqz5dr.r-16y2uox.r-1472mwg.r-1777fci.r-1wyvozj.r-u8s1d.r-70iriu.r-136ojw6 > div.css-901oao.r-t1w4ow.r-1b43r93.r-majxgm.r-rjixqe.r-q4m81j</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3099545-e721-4389-b76b-6c1dcb75ac66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>f620c0ed-e286-4b51-b35f-5d01092961f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-t1w4ow r-1b43r93 r-majxgm r-rjixqe r-q4m81j</value>
+      <webElementGuid>22deb810-0b3b-45e5-a198-a56043e88a5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>6bf569d8-300f-43ae-95ce-c9f9135136ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-axzv8h r-l13dpy&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-uwe93p&quot;]/div[@class=&quot;css-1dbjc4n r-kdyh1x r-rs99b7 r-1yos0t3 r-1xfddsp r-bztko3 r-uwe93p r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1xfddsp&quot;]/div[@class=&quot;css-1dbjc4n r-u6sd8q r-4gszlv r-1f0042m r-13awgt0 r-1xfddsp r-1ygmrgt r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1wh2hl7 r-e65k4z r-1q9bdsx r-xyw6el&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1pn2ns4&quot;]/div[@class=&quot;css-1dbjc4n r-zo7nv5 r-6413gk r-ogt5cd r-kzbkwu r-1i6dfp5 r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wyyakw&quot;]/div[@class=&quot;css-1dbjc4n r-19mqnvc r-17x6qj0&quot;]/div[@class=&quot;css-1dbjc4n r-bnwqim r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-da5iq2 r-bztko3 r-u8s1d r-1t5bsuq&quot;]/div[@class=&quot;css-1dbjc4n r-1e081e0 r-5njf8e&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-18u37iz r-16y2uox r-1wbh5a2 r-lltvgl r-buy8e9 r-mfh4gg r-2eszeu r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-cpa5s6&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-6413gk r-14hr28s r-c0cves&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-kdyh1x r-1loqt21 r-1777fci r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1vjbqqu r-z2wwpe r-18u37iz r-1472mwg r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-eqz5dr r-16y2uox r-1472mwg r-1777fci r-1wyvozj r-u8s1d r-70iriu r-136ojw6&quot;]/div[@class=&quot;css-901oao r-t1w4ow r-1b43r93 r-majxgm r-rjixqe r-q4m81j&quot;]</value>
+      <webElementGuid>e0a2bf6f-ac0a-4193-ae8d-d243e12e22f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/div/div[3]/div/div/div[2]/div/div/div/div/div/div[2]/div/div/div[3]/div[2]/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>6a487c5d-8086-4af8-8cd9-831640902268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[2]/following::div[20]</value>
+      <webElementGuid>58d1e83e-5208-4d42-bf37-922630f0a857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[2]/following::div[22]</value>
+      <webElementGuid>49cfaea2-5f06-4a0e-a417-885b1ad4ba95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='November 2023'])[1]/preceding::div[328]</value>
+      <webElementGuid>78e8675c-d559-42f7-81db-cf280fb37ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[3]/preceding::div[330]</value>
+      <webElementGuid>971b5470-0ca4-4dcf-a27f-47cbfd5fdd90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div[2]/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>596f758a-b6ec-492d-b0f7-ec48e647abe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2' or . = '2')]</value>
+      <webElementGuid>971f51ac-28d8-49ce-8459-b1ed63c0fc55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

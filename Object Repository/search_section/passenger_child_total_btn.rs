@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>passenger_child_total_btn</name>
+   <tag></tag>
+   <elementGuidId>c0409c4a-30b3-47fd-94b3-7cf54befcd46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-18u37iz.r-knv0ih > div.css-1dbjc4n.r-obd0qt.r-dta0w2 > div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-13qz1uu > div.css-1dbjc4n.r-1awozwy.r-5j04e9.r-13awgt0.r-1777fci.r-4wgw6l.r-s1qlax.r-5njf8e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>990c6b27-f657-458f-9594-f909d899634f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1awozwy r-5j04e9 r-13awgt0 r-1777fci r-4wgw6l r-s1qlax r-5njf8e</value>
+      <webElementGuid>699a1119-6651-46c0-82b8-5e4ddab1bcf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>e117be67-46bd-41c3-a1fe-8d4fd1d55e5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-axzv8h r-l13dpy&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-uwe93p&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-rs99b7 r-1yos0t3 r-1xfddsp r-bztko3 r-uwe93p r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1xfddsp&quot;]/div[@class=&quot;css-1dbjc4n r-u6sd8q r-4gszlv r-1f0042m r-13awgt0 r-1xfddsp r-1ygmrgt r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1wh2hl7 r-e65k4z r-1q9bdsx r-xyw6el&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1pn2ns4&quot;]/div[@class=&quot;css-1dbjc4n r-zo7nv5 r-6413gk r-ogt5cd r-kzbkwu r-1i6dfp5 r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1qkazl5&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1l31rp8 r-z2wwpe r-rs99b7 r-1d2f490 r-nsbfu8 r-xd6kpl r-u8s1d r-zchlnj r-1r2pcjo&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-knv0ih&quot;]/div[@class=&quot;css-1dbjc4n r-obd0qt r-dta0w2&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-5j04e9 r-13awgt0 r-1777fci r-4wgw6l r-s1qlax r-5njf8e&quot;]</value>
+      <webElementGuid>c29224d2-b880-422f-a661-980cb7f3cee7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>e99d4fd8-adf4-4c24-bf30-02f4faf74697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Age 2 - 11)'])[1]/following::div[7]</value>
+      <webElementGuid>caad22fd-bef4-442d-b0b0-9bbe6dd42881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Child'])[1]/following::div[8]</value>
+      <webElementGuid>f4668371-6504-4823-a45d-2229390333a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Infant'])[1]/preceding::div[6]</value>
+      <webElementGuid>7e75c869-dfdc-4809-bfba-d4aa8c75f437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(below age 2)'])[1]/preceding::div[7]</value>
+      <webElementGuid>11e9f4d9-809f-4e89-a695-efa87ad38841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>c78b1a5c-dfd1-41d3-950d-2f1551eb7f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1' or . = '1')]</value>
+      <webElementGuid>fdfb186a-0133-4112-a7c1-17d255a97ba0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

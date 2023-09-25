@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>date_passenger_class_info</name>
+   <tag></tag>
+   <elementGuidId>bbe63978-5c5f-4700-9b39-d5cbdf097a48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='flight-header-revamp']/div[2]/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-901oao.r-t1w4ow.r-1b43r93.r-majxgm.r-rjixqe.r-14gqq1x.r-fdjqy7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e7075c85-7b77-4683-9a42-e749f2f6def1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>d1af8fb4-5f52-44a4-9dfa-3f8dfd463838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-t1w4ow r-1b43r93 r-majxgm r-rjixqe r-14gqq1x r-fdjqy7</value>
+      <webElementGuid>70c994e7-adc8-4c81-89c3-67bfeed316d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tue, 26 Sep 2023  |  1 passenger(s)  |  Economy</value>
+      <webElementGuid>26f00418-939f-4f07-8645-70771b7066dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flight-header-revamp&quot;)/div[@class=&quot;css-1dbjc4n r-u8s1d r-ipm5af r-13qz1uu r-1g40b8q&quot;]/div[@class=&quot;css-1dbjc4n r-1e081e0 r-ttdzmv r-bnwqim&quot;]/div[1]/div[1]/div[@class=&quot;css-1dbjc4n r-1awozwy r-6koalj r-18u37iz r-b5h31w r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-901oao r-t1w4ow r-1b43r93 r-majxgm r-rjixqe r-14gqq1x r-fdjqy7&quot;]</value>
+      <webElementGuid>b15849b6-2b70-40e5-8e0e-eb71c0460ed0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='flight-header-revamp']/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>3bbeedd4-2dd1-4eed-a14b-e8e4d45197af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jakarta (JKTA) → Bali (DPS)'])[1]/following::div[1]</value>
+      <webElementGuid>79cdd0ff-d578-4a32-9db0-e88e662e10fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transit Duration'])[1]/following::div[33]</value>
+      <webElementGuid>3a16419c-0b5b-47c3-82d7-7ede34e6ad10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price Alerts'])[1]/preceding::div[3]</value>
+      <webElementGuid>db73a847-3ee8-41b3-a4e9-408730ac47ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon, 25 Sep'])[1]/preceding::div[9]</value>
+      <webElementGuid>a716d6d2-3a63-404c-a41e-dc1b03e3c310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>98057e5d-ed4b-43d6-b5af-986ac13dde94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tue, 26 Sep 2023  |  1 passenger(s)  |  Economy' or . = 'Tue, 26 Sep 2023  |  1 passenger(s)  |  Economy')]</value>
+      <webElementGuid>19de6650-51a7-4081-a2db-d74d191ddc8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

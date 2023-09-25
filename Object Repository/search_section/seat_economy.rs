@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>seat_economy</name>
+   <tag></tag>
+   <elementGuidId>9314e118-8fcb-481e-a633-189420f0edda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-1ihkh82.r-18u37iz.r-1w6e6rj.r-1h0z5md.r-ymttw5.r-oyd9sg.r-13qz1uu > div.css-901oao.css-bfa6kz.r-13awgt0.r-t1w4ow.r-ubezar.r-majxgm.r-135wba7.r-fdjqy7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='4-ECONOMY']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a3c508a-bcb4-4bed-be37-8c810c7bf50d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>154df946-ee4f-436c-b97b-aa1bc5a5d406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-bfa6kz r-13awgt0 r-t1w4ow r-ubezar r-majxgm r-135wba7 r-fdjqy7</value>
+      <webElementGuid>0d42b590-acc8-49d4-80fe-8e7d05567e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Economy</value>
+      <webElementGuid>a2cfdf6f-5446-4e28-b443-3e325f59fade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4-ECONOMY&quot;)/div[@class=&quot;css-1dbjc4n r-1awozwy r-1ihkh82 r-18u37iz r-1w6e6rj r-1h0z5md r-ymttw5 r-oyd9sg r-13qz1uu&quot;]/div[@class=&quot;css-901oao css-bfa6kz r-13awgt0 r-t1w4ow r-ubezar r-majxgm r-135wba7 r-fdjqy7&quot;]</value>
+      <webElementGuid>fcdb024c-605c-45ef-93e2-05a8c7c11069</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4-ECONOMY']/div/div[2]</value>
+      <webElementGuid>1800b7c8-1962-48c6-b557-8b989e72a11b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Economy'])[1]/following::div[5]</value>
+      <webElementGuid>603f12c5-6a16-4f1c-900c-3db87a5ec2a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seat Class'])[1]/following::div[11]</value>
+      <webElementGuid>27a1ba2f-c622-4831-bbbc-02936e146224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Premium Economy'])[1]/preceding::div[2]</value>
+      <webElementGuid>bb378649-862c-4841-bad5-124a2999ee04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business'])[1]/preceding::div[6]</value>
+      <webElementGuid>ec26e6be-5b65-423d-a6d4-dac9769b0434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/div/div/div[2]</value>
+      <webElementGuid>a2e49c34-8ce5-48f2-861b-8b2a2e8587e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Economy' or . = 'Economy')]</value>
+      <webElementGuid>7caf16b6-837b-499a-bf9f-98c816e709f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

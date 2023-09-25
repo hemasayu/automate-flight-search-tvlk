@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>one_way_round_trip_btn</name>
+   <tag></tag>
+   <elementGuidId>1c46508d-4252-4363-b855-3d870565db33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-18t94o4.css-1dbjc4n.r-kdyh1x.r-rs99b7.r-1loqt21.r-10paoce.r-1e081e0.r-5njf8e.r-1otgn73.r-lrvibr > div.css-1dbjc4n.r-1awozwy.r-13awgt0.r-18u37iz.r-1777fci.r-6dt33c > div.css-901oao.css-bfa6kz.r-jwli3a.r-t1w4ow.r-1o4mh9l.r-b88u0q.r-f0eezp.r-q4m81j</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div[3]/div/div/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f20a0ede-a28b-4ad8-aa99-37b385219419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>a52faacf-9054-475c-a448-d5557c4bc347</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7ae1b5e1-ce38-4b8e-939f-e0b33ef4a826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-bfa6kz r-jwli3a r-t1w4ow r-1o4mh9l r-b88u0q r-f0eezp r-q4m81j</value>
+      <webElementGuid>213bc09e-f902-416e-a06f-f4b7965cd8a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>One-way / Round-trip</value>
+      <webElementGuid>6f15262b-a2ce-4827-ab7a-d75c12fc0dce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-axzv8h r-l13dpy&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-uwe93p&quot;]/div[@class=&quot;css-1dbjc4n r-kdyh1x r-rs99b7 r-1yos0t3 r-1xfddsp r-bztko3 r-uwe93p r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1xfddsp&quot;]/div[@class=&quot;css-1dbjc4n r-u6sd8q r-4gszlv r-1f0042m r-13awgt0 r-1xfddsp r-1ygmrgt r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-kzbkwu r-1e081e0&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1wtj0ep&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-kdyh1x r-rs99b7 r-1loqt21 r-10paoce r-1e081e0 r-5njf8e r-1otgn73 r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-13awgt0 r-18u37iz r-1777fci r-6dt33c&quot;]/div[@class=&quot;css-901oao css-bfa6kz r-jwli3a r-t1w4ow r-1o4mh9l r-b88u0q r-f0eezp r-q4m81j&quot;]</value>
+      <webElementGuid>be4ad0dd-7b3d-477e-afac-324d1fb149f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div[3]/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>f0b44191-7205-4fbf-8023-6c49e14ee0b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='One-way / Round-trip'])[1]/following::div[2]</value>
+      <webElementGuid>2b87e1ff-7219-419f-b7af-f3b8e8577236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flight + Hotel'])[1]/following::div[10]</value>
+      <webElementGuid>40257110-5491-45f2-973f-2255cc4bf5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi-city'])[1]/preceding::div[2]</value>
+      <webElementGuid>3a3e7cec-029e-4ae2-aa35-eb960223d80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need inspiration? Search for flights to anywhere'])[1]/preceding::div[8]</value>
+      <webElementGuid>f9621478-96aa-48cd-a5c8-ac45f713fc0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>331c1eb8-c20d-4be2-9615-57d51f9e97f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'One-way / Round-trip' or . = 'One-way / Round-trip')]</value>
+      <webElementGuid>e76a0b27-96fa-423d-8844-84756c66e231</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

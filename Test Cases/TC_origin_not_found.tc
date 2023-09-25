@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_origin_not_found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fb9f95b-816b-4893-bb03-ebc47b6af59d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f6d3ae5a-832a-4c97-9126-884080728dd5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40a808cf-b89e-4ef6-bc2d-77d6ae4cbf07</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Medan (KNO)'</defaultValue>
+      <description></description>
+      <id>f6d3ae5a-832a-4c97-9126-884080728dd5</id>
+      <masked>false</masked>
+      <name>cityWithCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medan'</defaultValue>
+      <description></description>
+      <id>40a808cf-b89e-4ef6-bc2d-77d6ae4cbf07</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+</TestCaseEntity>

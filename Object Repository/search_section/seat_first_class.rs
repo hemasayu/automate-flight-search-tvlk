@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>seat_first_class</name>
+   <tag></tag>
+   <elementGuidId>17078017-b617-46a3-aac5-37e6a43d1114</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#4-FIRST > div.css-1dbjc4n.r-1awozwy.r-1ihkh82.r-18u37iz.r-1w6e6rj.r-1h0z5md.r-ymttw5.r-oyd9sg.r-13qz1uu > div.css-901oao.css-bfa6kz.r-13awgt0.r-t1w4ow.r-ubezar.r-majxgm.r-135wba7.r-fdjqy7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='4-FIRST']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9d2c49de-6b60-42c5-b133-7eef6fe4e256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>4cd0da85-8791-4886-94d8-d5b90fe33010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-bfa6kz r-13awgt0 r-t1w4ow r-ubezar r-majxgm r-135wba7 r-fdjqy7</value>
+      <webElementGuid>abdc6384-9190-4088-a28d-bc84d183aac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>First Class</value>
+      <webElementGuid>f4e93a0c-1b76-4881-9676-f327113d0d52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4-FIRST&quot;)/div[@class=&quot;css-1dbjc4n r-1awozwy r-1ihkh82 r-18u37iz r-1w6e6rj r-1h0z5md r-ymttw5 r-oyd9sg r-13qz1uu&quot;]/div[@class=&quot;css-901oao css-bfa6kz r-13awgt0 r-t1w4ow r-ubezar r-majxgm r-135wba7 r-fdjqy7&quot;]</value>
+      <webElementGuid>02767ccc-a9e4-45b0-a759-5549c46b2ca4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4-FIRST']/div/div[2]</value>
+      <webElementGuid>ab6866be-949a-4987-97fe-d7bf3a6936bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business'])[1]/following::div[4]</value>
+      <webElementGuid>fbc5970f-e86b-44fd-bace-4997202e3831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Premium Economy'])[1]/following::div[8]</value>
+      <webElementGuid>e8bfb408-2f86-4a3b-9931-3279a4f8a8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Flights'])[1]/preceding::div[1]</value>
+      <webElementGuid>35b3de3c-28aa-4398-8338-87217ca5ff2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price Alerts'])[1]/preceding::div[6]</value>
+      <webElementGuid>7180cbe8-e7c4-4013-a1cd-fa2ee590c713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='First Class']/parent::*</value>
+      <webElementGuid>a43a9069-537e-48bb-874e-51e6b2e56164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div/div[2]</value>
+      <webElementGuid>5c93f8fe-2202-4ffb-bbca-0e53fc5e6a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'First Class' or . = 'First Class')]</value>
+      <webElementGuid>c3e64531-de17-4d6b-9fd7-83332d4e2e8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

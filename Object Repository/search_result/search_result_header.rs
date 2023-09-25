@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search_result_header</name>
+   <tag></tag>
+   <elementGuidId>942afa9f-64b9-4ab8-9db8-70b2cea5917a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='flight-header-revamp']/div[2]/div/div/div/div/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-6koalj.r-18u37iz.r-b5h31w.r-bnwqim > div.css-1dbjc4n > h3.css-4rbku5.css-901oao.r-t1w4ow.r-ubezar.r-b88u0q.r-rjixqe.r-fdjqy7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>188ec5d4-d2ea-41b9-8276-e90a70c39446</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>8260966d-5732-41d4-87b5-96720e3a3e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>07c21b99-0a9a-4896-ab99-3961b9f757d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>6e6250e2-7572-4c29-9c9b-0c8ffedf9809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-4rbku5 css-901oao r-t1w4ow r-ubezar r-b88u0q r-rjixqe r-fdjqy7</value>
+      <webElementGuid>4c26e888-6d87-47bd-8653-f2f350023b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jakarta (JKTA) → Bali (DPS)</value>
+      <webElementGuid>29bd89a2-b7c7-4233-8b83-f2e3bf847c9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flight-header-revamp&quot;)/div[@class=&quot;css-1dbjc4n r-u8s1d r-ipm5af r-13qz1uu r-1g40b8q&quot;]/div[@class=&quot;css-1dbjc4n r-1e081e0 r-ttdzmv r-bnwqim&quot;]/div[1]/div[1]/div[@class=&quot;css-1dbjc4n r-1awozwy r-6koalj r-18u37iz r-b5h31w r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/h3[@class=&quot;css-4rbku5 css-901oao r-t1w4ow r-ubezar r-b88u0q r-rjixqe r-fdjqy7&quot;]</value>
+      <webElementGuid>e25d1b92-76af-462c-811a-372a6df37501</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='flight-header-revamp']/div[2]/div/div/div/div/div/h3</value>
+      <webElementGuid>0e72cde7-eac4-400a-8048-bc578331364f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transit Duration'])[1]/following::h3[1]</value>
+      <webElementGuid>2b1e99b1-5e39-41cb-907f-4dbf7810f75a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Makassar (UPG)'])[1]/following::h3[1]</value>
+      <webElementGuid>5dc03d3a-a658-4f17-9d3f-51cd2e218e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price Alerts'])[1]/preceding::h3[1]</value>
+      <webElementGuid>48a92545-1db8-4cd1-8bfc-c50397530878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jakarta (JKTA) → Bali (DPS)']/parent::*</value>
+      <webElementGuid>1b93e944-dba8-49c6-9995-488c37467123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/h3</value>
+      <webElementGuid>3f2cd74f-6709-4a32-b62a-30693981a031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Jakarta (JKTA) → Bali (DPS)' or . = 'Jakarta (JKTA) → Bali (DPS)')]</value>
+      <webElementGuid>1d187cf4-d9ac-4e85-8286-ccf04d631731</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
