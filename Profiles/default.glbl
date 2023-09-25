@@ -6,17 +6,17 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://m.traveloka.com/en-id/flight'</initValue>
+      <initValue>'https://www.traveloka.com/en-id/flight'</initValue>
       <name>flightUrl</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>390</initValue>
+      <initValue>1220</initValue>
       <name>viewportWidth</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>844</initValue>
+      <initValue>931</initValue>
       <name>viewportHeight</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
