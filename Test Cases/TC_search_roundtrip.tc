@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_input_date</name>
+   <name>TC_search_roundtrip</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>84378caa-9197-47d7-aaeb-9f20c6114680</testCaseGuid>
+   <testCaseGuid>875fe34c-ecfc-45f5-9c8a-a99d53246600</testCaseGuid>
 </TestCaseEntity>
